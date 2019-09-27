@@ -2,7 +2,7 @@
 /*
  * Use of this source code is governed by a BSD-style
  * license that can be found in the LICENSE.md file or at
- * https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.470/blob/master/LICENSE
+ * https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.462/blob/master/LICENSE
  *
  */
 #endregion
@@ -297,7 +297,7 @@ namespace ExtendedControls.ExtendedToolkit.UI.Dialogues
             // 
             // klblAccessed
             // 
-            this.klblAccessed.Location = new System.Drawing.Point(20, 461);
+            this.klblAccessed.Location = new System.Drawing.Point(20, 462);
             this.klblAccessed.Name = "klblAccessed";
             this.klblAccessed.Size = new System.Drawing.Size(99, 24);
             this.klblAccessed.StateCommon.LongText.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

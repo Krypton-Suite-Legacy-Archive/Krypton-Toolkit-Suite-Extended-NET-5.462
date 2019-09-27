@@ -609,10 +609,10 @@ namespace ExtendedFileDialogs.Controls
         LabelFileType = 0x441,
         LabelFileName = 0x442,
         LabelLookIn = 0x443,
-        DefaultView = 0x461,
+        DefaultView = 0x462,
         LeftToolBar = 0x4A0,
         ComboFileName = 0x47c,
-        ComboFileType = 0x470,
+        ComboFileType = 0x462,
         ComboFolder = 0x471,
         CheckBoxReadOnly = 0x410
     }

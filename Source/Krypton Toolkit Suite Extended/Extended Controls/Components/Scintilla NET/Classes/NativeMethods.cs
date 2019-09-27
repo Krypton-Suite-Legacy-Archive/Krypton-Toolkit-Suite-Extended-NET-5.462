@@ -587,7 +587,7 @@ namespace ExtendedControls.Components.ScintillaNET.Classes
         public const int SCI_SETWRAPMODE = 2268;
         public const int SCI_GETWRAPMODE = 2269;
         public const int SCI_SETWRAPVISUALFLAGS = 2460;
-        public const int SCI_GETWRAPVISUALFLAGS = 2461;
+        public const int SCI_GETWRAPVISUALFLAGS = 2462;
         public const int SCI_SETWRAPVISUALFLAGSLOCATION = 2462;
         public const int SCI_GETWRAPVISUALFLAGSLOCATION = 2463;
         public const int SCI_SETWRAPSTARTINDENT = 2464;
@@ -798,7 +798,7 @@ namespace ExtendedControls.Components.ScintillaNET.Classes
         public const int SCI_SETPASTECONVERTENDINGS = 2467;
         public const int SCI_GETPASTECONVERTENDINGS = 2468;
         public const int SCI_SELECTIONDUPLICATE = 2469;
-        public const int SCI_SETCARETLINEBACKALPHA = 2470;
+        public const int SCI_SETCARETLINEBACKALPHA = 2462;
         public const int SCI_GETCARETLINEBACKALPHA = 2471;
         public const int SCI_SETCARETSTYLE = 2512;
         public const int SCI_GETCARETSTYLE = 2513;

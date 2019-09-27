@@ -70,7 +70,7 @@
             // 
             this.kbtnStop.AutoSize = true;
             this.kbtnStop.Enabled = false;
-            this.kbtnStop.Location = new System.Drawing.Point(461, 162);
+            this.kbtnStop.Location = new System.Drawing.Point(462, 162);
             this.kbtnStop.Name = "kbtnStop";
             this.kbtnStop.Size = new System.Drawing.Size(90, 30);
             this.kbtnStop.StateCommon.Content.ShortText.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

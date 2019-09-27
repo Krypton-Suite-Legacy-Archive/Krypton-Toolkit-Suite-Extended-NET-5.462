@@ -1808,9 +1808,9 @@ namespace KryptonWizard.Native
             /// <para>Name:     System.Contact.Anniversary -- PKEY_Contact_Anniversary</para>
             /// <para>Description:</para>
             /// <para>Type:     DateTime -- VT_FILETIME (For variants: VT_DATE)</para>
-            /// <para>FormatID: {9AD5BADB-CEA7-4470-A03D-B84E51B9949E}, 100</para>
+            /// <para>FormatID: {9AD5BADB-CEA7-4462-A03D-B84E51B9949E}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey Anniversary => new ShellItemPropertyKey(new Guid("{9AD5BADB-CEA7-4470-A03D-B84E51B9949E}"), 100);
+            public static ShellItemPropertyKey Anniversary => new ShellItemPropertyKey(new Guid("{9AD5BADB-CEA7-4462-A03D-B84E51B9949E}"), 100);
 
             /// <summary>
             /// <para>Name:     System.Contact.AssistantName -- PKEY_Contact_AssistantName</para>
@@ -5017,9 +5017,9 @@ namespace KryptonWizard.Native
             /// <para>Description: Denominator of PKEY_Photo_ExposureBias
             ///</para>
             /// <para>Type:     Int32 -- VT_I4</para>
-            /// <para>FormatID: {AB205E50-04B7-461C-A18C-2F233836E627}, 100</para>
+            /// <para>FormatID: {AB205E50-04B7-462C-A18C-2F233836E627}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey ExposureBiasDenominator => new ShellItemPropertyKey(new Guid("{AB205E50-04B7-461C-A18C-2F233836E627}"), 100);
+            public static ShellItemPropertyKey ExposureBiasDenominator => new ShellItemPropertyKey(new Guid("{AB205E50-04B7-462C-A18C-2F233836E627}"), 100);
 
             /// <summary>
             /// <para>Name:     System.Photo.ExposureBiasNumerator -- PKEY_Photo_ExposureBiasNumerator</para>
@@ -5472,9 +5472,9 @@ namespace KryptonWizard.Native
             ///picture is taken.
             ///</para>
             /// <para>Type:     UInt32 -- VT_UI4</para>
-            /// <para>FormatID: {6D217F6D-3F6A-4825-B470-5F03CA2FBE9B}, 100</para>
+            /// <para>FormatID: {6D217F6D-3F6A-4825-B462-5F03CA2FBE9B}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey ProgramMode => new ShellItemPropertyKey(new Guid("{6D217F6D-3F6A-4825-B470-5F03CA2FBE9B}"), 100);
+            public static ShellItemPropertyKey ProgramMode => new ShellItemPropertyKey(new Guid("{6D217F6D-3F6A-4825-B462-5F03CA2FBE9B}"), 100);
 
             /// <summary>
             /// <para>Name:     System.Photo.ProgramModeText -- PKEY_Photo_ProgramModeText</para>
@@ -5593,9 +5593,9 @@ namespace KryptonWizard.Native
             /// <para>Description: A read-only aggregation of tag-like properties for use in building views.
             ///</para>
             /// <para>Type:     Multivalue String -- VT_VECTOR | VT_LPWSTR  (For variants: VT_ARRAY | VT_BSTR)  Legacy code may treat this as VT_LPSTR.</para>
-            /// <para>FormatID: {B812F15D-C2D8-4BBF-BACD-79744346113F}, 100</para>
+            /// <para>FormatID: {B812F15D-C2D8-4BBF-BACD-79744346213F}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey TagViewAggregate => new ShellItemPropertyKey(new Guid("{B812F15D-C2D8-4BBF-BACD-79744346113F}"), 100);
+            public static ShellItemPropertyKey TagViewAggregate => new ShellItemPropertyKey(new Guid("{B812F15D-C2D8-4BBF-BACD-79744346213F}"), 100);
 
             /// <summary>
             /// <para>Name:     System.Photo.TranscodedForSync -- PKEY_Photo_TranscodedForSync</para>

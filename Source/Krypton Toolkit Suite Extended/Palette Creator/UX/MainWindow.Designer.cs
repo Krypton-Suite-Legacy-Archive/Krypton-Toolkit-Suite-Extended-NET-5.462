@@ -1055,7 +1055,7 @@
             this.pageTopTabs.Size = new System.Drawing.Size(100, 100);
             this.pageTopTabs.Text = "Tabs";
             this.pageTopTabs.ToolTipTitle = "Page ToolTip";
-            this.pageTopTabs.UniqueName = "461B49C26EBB4816461B49C26EBB4816";
+            this.pageTopTabs.UniqueName = "462B49C26EBB4816462B49C26EBB4816";
             // 
             // pageTopTrackBar
             // 
@@ -1374,7 +1374,7 @@
             // buttonSpecAny28
             // 
             this.buttonSpecAny28.Type = ComponentFactory.Krypton.Toolkit.PaletteButtonSpecStyle.ArrowDown;
-            this.buttonSpecAny28.UniqueName = "5C9E40DBFF67470B5C9E40DBFF67470B";
+            this.buttonSpecAny28.UniqueName = "5C9E40DBFF67462B5C9E40DBFF67462B";
             // 
             // buttonSpecAny27
             // 
@@ -4642,7 +4642,7 @@
             this.pageTabLowProfile.Text = "Low Profile";
             this.pageTabLowProfile.TextDescription = "Low Profile is appropriate when only the selected page should be obvious.";
             this.pageTabLowProfile.ToolTipTitle = "Page ToolTip";
-            this.pageTabLowProfile.UniqueName = "A335C92A46184429A335C92A46184429";
+            this.pageTabLowProfile.UniqueName = "A335C92A46284429A335C92A46284429";
             // 
             // pageTabOneNote
             // 

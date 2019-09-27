@@ -102,7 +102,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.kryptonPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.kryptonPanel1.Location = new System.Drawing.Point(0, 0);
             this.kryptonPanel1.Name = "kryptonPanel1";
-            this.kryptonPanel1.Size = new System.Drawing.Size(1461, 100);
+            this.kryptonPanel1.Size = new System.Drawing.Size(1462, 100);
             this.kryptonPanel1.StateCommon.Color1 = System.Drawing.Color.White;
             this.kryptonPanel1.StateCommon.Color2 = System.Drawing.Color.White;
             this.kryptonPanel1.TabIndex = 0;
@@ -150,7 +150,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.kryptonPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.kryptonPanel2.Location = new System.Drawing.Point(0, 100);
             this.kryptonPanel2.Name = "kryptonPanel2";
-            this.kryptonPanel2.Size = new System.Drawing.Size(1461, 660);
+            this.kryptonPanel2.Size = new System.Drawing.Size(1462, 660);
             this.kryptonPanel2.TabIndex = 0;
             // 
             // kbtnUpgrade
@@ -308,7 +308,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.kryptonPanel3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.kryptonPanel3.Location = new System.Drawing.Point(0, 763);
             this.kryptonPanel3.Name = "kryptonPanel3";
-            this.kryptonPanel3.Size = new System.Drawing.Size(1461, 51);
+            this.kryptonPanel3.Size = new System.Drawing.Size(1462, 51);
             this.kryptonPanel3.TabIndex = 0;
             // 
             // kbtnOk
@@ -362,7 +362,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.kpSS.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.kpSS.Location = new System.Drawing.Point(0, 814);
             this.kpSS.Name = "kpSS";
-            this.kpSS.Size = new System.Drawing.Size(1461, 22);
+            this.kpSS.Size = new System.Drawing.Size(1462, 22);
             this.kpSS.TabIndex = 0;
             // 
             // ss
@@ -373,7 +373,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.ss.Location = new System.Drawing.Point(0, 0);
             this.ss.Name = "ss";
             this.ss.RenderMode = System.Windows.Forms.ToolStripRenderMode.ManagerRenderMode;
-            this.ss.Size = new System.Drawing.Size(1461, 22);
+            this.ss.Size = new System.Drawing.Size(1462, 22);
             this.ss.TabIndex = 0;
             this.ss.Text = "statusStrip1";
             // 
@@ -392,7 +392,7 @@ namespace KryptonPaletteUpgradeTool.UX
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel1.Location = new System.Drawing.Point(0, 760);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1461, 3);
+            this.panel1.Size = new System.Drawing.Size(1462, 3);
             this.panel1.TabIndex = 1;
             // 
             // kptxNewPaletteFilePath
@@ -423,7 +423,7 @@ namespace KryptonPaletteUpgradeTool.UX
             // 
             // MainWindow
             // 
-            this.ClientSize = new System.Drawing.Size(1461, 836);
+            this.ClientSize = new System.Drawing.Size(1462, 836);
             this.Controls.Add(this.kryptonPanel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.kryptonPanel3);

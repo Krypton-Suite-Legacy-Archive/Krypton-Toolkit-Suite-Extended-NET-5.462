@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4644D8A-1C7A-43B6-8461-AB0B56FD6463}</ProjectGuid>
+    <ProjectGuid>{D4644D8A-1C7A-43B6-8462-AB0B56FD6463}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ExtendedFileDialogs</RootNamespace>
     <AssemblyName>Extended File Dialogs</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AssemblyVersion>5.470.232.0</AssemblyVersion>
+    <AssemblyVersion>5.462.232.0</AssemblyVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -216,8 +216,8 @@
     <Content Include="XML\CustomDictionary.xml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5470">
-      <Version>5.470.1251</Version>
+    <PackageReference Include="KryptonToolkitSuite5462">
+      <Version>5.462.1254</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

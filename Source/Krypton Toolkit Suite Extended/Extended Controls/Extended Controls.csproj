@@ -9,10 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ExtendedControls</RootNamespace>
     <AssemblyName>Krypton Extended Toolkit</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationVersion>4.7.410.0</ApplicationVersion>
-    <AssemblyVersion>5.470.720.0</AssemblyVersion>
+    <AssemblyVersion>5.462.720.0</AssemblyVersion>
     <ShouldCreateLogs>True</ShouldCreateLogs>
     <AdvancedSettingsExpanded>True</AdvancedSettingsExpanded>
     <UpdateAssemblyVersion>True</UpdateAssemblyVersion>
@@ -56,7 +56,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="PresentationCore">
-      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7\PresentationCore.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2\PresentationCore.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -1378,8 +1378,8 @@
     <Folder Include="ExtendedToolkit\UI\SoftwareUpdater\Classes\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5470">
-      <Version>5.470.1251</Version>
+    <PackageReference Include="KryptonToolkitSuite5462">
+      <Version>5.462.1254</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>12.0.2</Version>
@@ -1407,7 +1407,7 @@
       <Name>Krypton Outlook Grid</Name>
     </ProjectReference>
     <ProjectReference Include="..\Toolkit Resources\Toolkit Resources.csproj">
-      <Project>{cfb34c40-6461-4ea1-a81c-5e207f2d7bfe}</Project>
+      <Project>{cfb34c40-6462-4ea1-a81c-5e207f2d7bfe}</Project>
       <Name>Toolkit Resources</Name>
     </ProjectReference>
     <ProjectReference Include="..\Toolkit Settings\Toolkit Settings.csproj">
