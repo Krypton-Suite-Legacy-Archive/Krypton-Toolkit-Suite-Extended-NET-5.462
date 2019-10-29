@@ -2,9 +2,18 @@
 
 =======
 
-| NuGet | Current NuGet Version | Github License |
-|---|---|---|
-| [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.462-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5462/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462.svg) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.462.svg)
+| Module Name | Current Version |
+|---|---|
+| <img src="https://img.shields.io/badge/Module-Core-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462CoreModule) | 
+| <img src="https://img.shields.io/badge/Module-Colour Controls-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462ExtendedColourControlsModule) | 
+| <img src="https://img.shields.io/badge/Module-Dialogs-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462ExtendedDialogsModule) |
+| <img src="https://img.shields.io/badge/Module-Menu & Toolbar Items-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462ExtendedMenuAndToolbarItemsModule) 
+| <img src="https://img.shields.io/badge/Module-Extended Standard Controls-orange" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462ExtendedStandardControlsModule) |
+| <img src="https://img.shields.io/badge/Module-Floating Menu & Toolbars-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462FloatingMenuAndToolbarsModule) | 
+| <img src="https://img.shields.io/badge/Module-IO Components-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462IOComponentsModule) 
+| <img src="https://img.shields.io/badge/Module-Krypton Outlook Grid-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462KryptonOutlookGridModule) |
+| <img src="https://img.shields.io/badge/Module-Navi Suite-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462NaviSuiteModule) | 
+| <img src="https://img.shields.io/badge/Module-Task Dialogs-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5462TaskDialogsModule) | 
 
 =======
 
@@ -18,7 +27,7 @@ Please refer to [examples](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Exte
 * Implement `WindowsAPICodePackModel.cs` class for dealing with **WindowsAPICodePack** features 
 * New `Palette Explorer` controls
 * Merged all settings into `Toolkit Settings.dll`
-* Begun work on [#70](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.470/issues/70)
+* Begun work on [#62](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.462/issues/62)
 * Implemented [NaviSuite](https://github.com/jacobmesu/Guifreaks-Navisuite) by [Jacobmesu](https://github.com/jacobmesu)
 * New file varifier app to work with May's file checksum calculator
 * New `KryptonFileInformationDialog` to replace the Windows default one with some extra features
